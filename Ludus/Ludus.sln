@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludus.Resurgo", "Ludus.Resu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludus.Resurgo.Tests", "Ludus.Resurgo.Tests\Ludus.Resurgo.Tests.csproj", "{70891593-633A-4E87-A2D2-57E427C10262}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludus.Ardeo", "Ludus.Ardeo\Ludus.Ardeo.csproj", "{FEF5EA9B-A386-46AA-A198-894BC9764E8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{70891593-633A-4E87-A2D2-57E427C10262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70891593-633A-4E87-A2D2-57E427C10262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70891593-633A-4E87-A2D2-57E427C10262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF5EA9B-A386-46AA-A198-894BC9764E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF5EA9B-A386-46AA-A198-894BC9764E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF5EA9B-A386-46AA-A198-894BC9764E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF5EA9B-A386-46AA-A198-894BC9764E8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
