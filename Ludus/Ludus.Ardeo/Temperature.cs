@@ -29,7 +29,7 @@ internal sealed class Temperature
         {
             return new Temperature(celsius);
         }
-        catch (ArgumentOutOfRangeException ex)
+        catch (ArgumentOutOfRangeException)
         {
             throw new ArgumentOutOfRangeException(
                 paramName,
